@@ -9,7 +9,19 @@
  * compiled file so the styles you add here take precedence over styles defined in any other CSS/SCSS
  * files in this directory. Styles in this file should be added after the last require_* statement.
  * It is generally better to create a new file per style scope.
- *
+ 
+ 
+ *= require animate.css
+ *= require bootstrap.css
+ *= require bootstrap.min.css
+ *= require bootstrap-theme.min.css
+ *= require bootstrap-theme.min.css
+ *= require font-awesome.css
+ *= require font-awesome.min.css
+ *= require magnific-popup.css
+ *= require media-queries.css
+ *= require style.css
  *= require_tree .
+ *= require style
  *= require_self
  */

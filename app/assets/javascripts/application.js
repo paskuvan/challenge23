@@ -13,4 +13,19 @@
 //= require rails-ujs
 //= require activestorage
 //= require turbolinks
+//= require jquery-1.11.1.js
+//= require bootstrap.js
+//= require bootstrap.min.js
+//= require jquery.backstretch.js
+//= require jquery.magnific-popup.js
+//= require jquery.magnific-popup.min.js
+//= require placeholder.js
+//= require retina-1.1.0.js
+//= require retina-1.1.0.min.js
+//= require waypoints.js
+//= require waypoints.min.js
+//= require wow.js
+//= require wow.min.js
+//= require scripts.js
 //= require_tree .
+
