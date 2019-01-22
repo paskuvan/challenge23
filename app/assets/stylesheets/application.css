@@ -16,11 +16,11 @@
  *= require bootstrap.min.css
  *= require bootstrap-theme.min.css
  *= require bootstrap-theme.min.css
+ *= require font-awesome.css
  *= require magnific-popup.css
  *= require media-queries.css
  *= require style.css
  *= require_tree .
  *= require style
  *= require_self
- *= require font-awesome
  */
